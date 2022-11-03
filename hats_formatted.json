@@ -4459,6 +4459,11 @@
         "multi_color": false,
         "hat_type": "hats"
       },
+      "hat_カマキリオン": {
+        "image": "kamakiri.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
       "hat_サントス": {
         "image": "santos.png",
         "multi_color": false,
