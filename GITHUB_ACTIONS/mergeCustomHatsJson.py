@@ -12,8 +12,14 @@ custom.close()
 customGM.close()
 customGMH.close()
 
-customDict["hats"].extend(customGMDict["hats"])
-customDict["hats"].extend(customGMHDict["hats"])
+for i in range(len(customGMHDict["hats"])):
+    oldName = customGMHDict["hats"][i]["name"]
+    author = customGMHDict["hats"][i]["author"]
+    newName = f"{oldName}_{author}"
+    customGMHDict["hats"][i]["name"] = newName
+
+customGMHDict["hats"].extend(customDict["hats"])
+customGMHDict["hats"].extend(customGMDict["hats"])
 
 aSet = set()
 for hat in customDict["hats"]:
