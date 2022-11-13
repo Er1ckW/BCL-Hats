@@ -2415,1788 +2415,2871 @@
     "defaultTop": "-45%",
     "defaultLeft": "-18%",
     "hats": {
-      "hat_Megaphone": {
+      "hat_A-Chan_Seono": {
+        "image": "TONachan.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_America_9on": {
+        "image": "America.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_BetCoin_9on": {
+        "image": "Betcoin_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Box_enoki": {
+        "image": "BOX_adaptive.png",
+        "back_image": "BOX_back_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Bunny_Memeta": {
+        "image": "bunny_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Camera_9on": {
+        "image": "Cameracrew_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_CatHood_NonohaTect": {
+        "image": "catHood.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Chu-ni_enoki": {
+        "image": "chu-ni_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Cloud_9on": {
+        "image": "Cloud.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Deme_Memeta": {
+        "image": "deme_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Director_9on": {
+        "image": "Directorcrew_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Drawing_R1": {
+        "image": "drawing_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_England_9on": {
+        "image": "England.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Enoki_enoki": {
+        "image": "enoki2_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Flashlight_R1": {
+        "image": "flashlight_bounce_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Fox_Enoki": {
+        "image": "spectralfox_adaptive.png",
+        "back_image": "spectralfox_back_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Gamer_NonohaTect": {
+        "image": "Gamer.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Ganmasu_catudon": {
+        "image": "ganmasu.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Ganmasu2_catudon": {
+        "image": "ganmasu2.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Gao_Memeta": {
+        "image": "gao_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Germany_9on": {
+        "image": "Germany.png",
+        "back_image": "Germany_behind.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Greece_9on": {
+        "image": "Greece.png",
+        "back_image": "Greece_behind.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Guitar_Enoki": {
+        "image": "guitar_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Gusao_catudon": {
+        "image": "gusao.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Gusao2_catudon": {
+        "image": "gusao2.png",
+        "back_image": "gusao2_b.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Hatimanguu_catudon": {
+        "image": "hatimanguu.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Hatimanguu2_catudon": {
+        "image": "hatimanguu2.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Hedgehog_鹿屋つかさ": {
+        "image": "harinezumi.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Hime_9on": {
+        "image": "hime.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Hinaruka1_catudon": {
+        "image": "hinaruka1.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Hinaruka2_catudon": {
+        "image": "hinaruka2.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_HsParka_NonohaTect": {
+        "image": "hsParka.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Hungry_9on": {
+        "image": "Hungry_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Iemon_catudon": {
+        "image": "iemon.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Iemon2_catudon": {
+        "image": "iemon2.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Immoralist_Enoki": {
+        "image": "immoralist_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Italy_9on": {
+        "image": "Italy.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Jamaica_9on": {
+        "image": "Jamaica.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Japan_9on": {
+        "image": "Japan.png",
+        "back_image": "Japan_behind.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Jekyll_And_Hyde_Enoki": {
+        "image": "jekyll&hyde_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Kendama_enoki": {
+        "image": "kendama_bounce_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Latte_catudon": {
+        "image": "latte.png",
+        "back_image": "latte_b.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Latte2_catudon": {
+        "image": "latte2.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Light_9on": {
+        "image": "Rightcrew_adaptive.png",
+        "back_image": "Rightcrew_behind.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Magic_carpet_9on": {
+        "image": "Masiccarpet.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Maryo1_catudon": {
+        "image": "maryo1.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Maryo2_catudon": {
+        "image": "maryo2.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Medama_Memeta": {
+        "image": "medama_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Mementomori_catudon": {
+        "image": "memenntomori.png",
+        "back_image": "memenntomori_b.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Mementomori2_catudon": {
+        "image": "memenntomori2.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_MemoryControlDevice_NonohaTect": {
+        "image": "memoryControlDevice.png",
+        "back_image": "memoryControlDevice_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Meteo_catudon": {
+        "image": "meteo.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Meteo2_catudon": {
+        "image": "meteo2.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Mic_enoki": {
+        "image": "mic_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_MiniFurisode_NonohaTect": {
+        "image": "miniFurisode.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Mizore_catudon": {
+        "image": "mizore.png",
+        "back_image": "mizore_b.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Mizore2_catudon": {
+        "image": "mizore2.png",
+        "back_image": "mizore2_b.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Mosamosa_Memeta": {
+        "image": "mosamosa_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Myakumyaku_Memeta": {
+        "image": "myakumyaku.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Naki_Seono": {
+        "image": "TONnaki.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Naki2_Seono": {
+        "image": "TONnaki_2.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_OkashiParka_NonohaTect": {
+        "image": "okashiParka.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Omochi_enoki": {
+        "image": "omochi.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Otono_9on": {
+        "image": "otono.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Pakistan_9on": {
+        "image": "Pakistan.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Panama_9on": {
+        "image": "Panama.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Panda_9on": {
+        "image": "Panda_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_PawCoat_NonohaTect": {
+        "image": "pawCoat.png",
+        "back_image": "pawCoat_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Piagabu_Seono": {
+        "image": "TONgabu.png",
+        "back_image": "TONgabu_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Puppeteer_enoki": {
+        "image": "pape_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Reira-_catudon": {
+        "image": "reira-.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Reira-2_catudon": {
+        "image": "reira-2.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Russia_9on": {
+        "image": "Russia.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Schrodinger’s_Cat_enoki": {
+        "image": "syureneko_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Selfie_R1": {
+        "image": "selfie_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Seono_Seono": {
+        "image": "TONseono.png",
+        "back_image": "TONseono_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Seychelles_9on": {
+        "image": "Seychelles.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Soap_Bubble_R1": {
+        "image": "SoapBubble_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Souen_Seono": {
+        "image": "TONsouen.png",
+        "back_image": "TONsouen_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Sound_9on": {
+        "image": "Soundcrew_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Spain_9on": {
+        "image": "Spain.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Sreimari_catudon": {
+        "image": "Sreimari.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Sreimari2_catudon": {
+        "image": "Sreimari2.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Sri_Lanka_9on": {
+        "image": "Srilanka.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_SteamPunk_NonohaTect": {
+        "image": "steampunk.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Swan_Enoki": {
+        "image": "swan_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Takenoko_enoki": {
+        "image": "takenoko_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Teasea_Seono": {
+        "image": "TONteasea.png",
+        "back_image": "TONteasea_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Teddy_Bear_R1": {
+        "image": "teddy bear_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_Teto_Seono": {
+        "image": "TONteto.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Touyu_Seono": {
+        "image": "TONtouyu.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Turkey_9on": {
+        "image": "Turkey.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_UFO_9on": {
+        "image": "UFO.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Ukraine_9on": {
+        "image": "Ukraine.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Upaparon_catudon": {
+        "image": "upaparon.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Upaparon2_catudon": {
+        "image": "upaparon2.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_YOUsama_Seono": {
+        "image": "TONyousama.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_YanoNatsume_Seono": {
+        "image": "TONnatsume.png",
+        "back_image": "TONnatsume_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Yuki_Seono": {
+        "image": "TONyuki.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Zennkopasu_catudon": {
+        "image": "zennkopasu.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Zennkopasu2_catudon": {
+        "image": "zennkopasu2.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_ALTO_卯ノ花しうね": {
+        "image": "alto.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Dusk_卯ノ花しうね": {
+        "image": "dusk.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Fe:_卯ノ花しうね": {
+        "image": "fecolon.png",
+        "back_image": "fecolon_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_GEN_卯ノ花しうね": {
+        "image": "gen.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_LIGHT_卯ノ花しうね": {
+        "image": "light.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Rin_卯ノ花しうね": {
+        "image": "rin.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_kaki_卯ノ花しうね": {
+        "image": "kaki.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_yuta14_卯ノ花しうね": {
+        "image": "yuta.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_あくちー_卯ノ花しうね": {
+        "image": "akuchi.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_あーる。_卯ノ花しうね": {
+        "image": "a-ru.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_いず_卯ノ花しうね": {
+        "image": "is.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_えっちゃん_卯ノ花しうね": {
+        "image": "ecchan.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_おおはらMEN_卯ノ花しうね": {
+        "image": "ooharamen.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_おらふくん_卯ノ花しうね": {
+        "image": "oraf.png",
+        "back_image": "oraf_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_おんりー_卯ノ花しうね": {
+        "image": "only.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_きっぷん_卯ノ花しうね": {
+        "image": "kippun.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_ぐるたみん_卯ノ花しうね": {
+        "image": "gurutamin.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_けいすけ_卯ノ花しうね": {
+        "image": "keisuke.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_さとうささら_chest": {
+        "image": "satou_sasara.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_ざちきん_卯ノ花しうね": {
+        "image": "thechicken.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_しょぼすけ_卯ノ花しうね": {
+        "image": "shobosuke.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_しんたろー_卯ノ花しうね": {
+        "image": "shintaro.png",
+        "back_image": "shintaro_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_ずんだもん_chest": {
+        "image": "zundamon.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_たくや_卯ノ花しうね": {
+        "image": "takuya.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_たけぉ_卯ノ花しうね": {
+        "image": "takeo.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_ちゃげぽよ。_卯ノ花しうね": {
+        "image": "chagepoyo.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_ついな_chest": {
+        "image": "tuina.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_なかのっち_卯ノ花しうね": {
+        "image": "nakanocchi.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_なつぴょん_卯ノ花しうね": {
+        "image": "natsupyon.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_なつめ先生_卯ノ花しうね": {
+        "image": "natsumesensei.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_ねろちゃん_卯ノ花しうね": {
+        "image": "nerrr.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_のすけ_卯ノ花しうね": {
+        "image": "nosuke.png",
+        "back_image": "nosuke_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_はたさこ_卯ノ花しうね": {
+        "image": "hatasako.png",
+        "back_image": "hatasako_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_ぱんくん_卯ノ花しうね": {
+        "image": "pankun.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_ぴよんゆぅ_卯ノ花しうね": {
+        "image": "piyonyuu.png",
+        "back_image": "piyonyuu_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_ぴんちゃん_卯ノ花しうね": {
+        "image": "pinchan.png",
+        "back_image": "pinchan_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_ふじみや_卯ノ花しうね": {
+        "image": "fujimiya.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_ぼんじゅうる_卯ノ花しうね": {
+        "image": "bonjyuru.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_まいも_卯ノ花しうね": {
+        "image": "maimo.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_ましゃかり_卯ノ花しうね": {
+        "image": "masyakari.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_まっくす_卯ノ花しうね": {
+        "image": "maxgakuinchou.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_みさとらん_卯ノ花しうね": {
+        "image": "ran.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_めーや_卯ノ花しうね": {
+        "image": "meiya.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_やくさい_卯ノ花しうね": {
+        "image": "yakusai.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_りおん_卯ノ花しうね": {
+        "image": "rion.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_れぷちん_卯ノ花しうね": {
+        "image": "repuchinsan.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_アカメタ_卯ノ花しうね": {
+        "image": "akameta.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_アベルーニ_chest": {
+        "image": "averuni.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_アベレージ_卯ノ花しうね": {
+        "image": "average.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_アリアル_chest": {
+        "image": "allial.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_カマキリオン_りおん": {
+        "image": "kamakiri.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_サントス_卯ノ花しうね": {
+        "image": "santos.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_スナザメ_卯ノ花しうね": {
+        "image": "sunazame.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_スナパイ_卯ノ花しうね": {
+        "image": "snapai.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_ズズ_卯ノ花しうね": {
+        "image": "zuzu_adaptive.png",
+        "back_image": "zuzu_back_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_ゼルク_卯ノ花しうね": {
+        "image": "zelk.png",
+        "back_image": "zelk_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_タカハシ_chest": {
+        "image": "takahashi.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_テラゾー_卯ノ花しうね": {
+        "image": "terazo.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_ドズル_卯ノ花しうね": {
+        "image": "dozle.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_ハッチャン_卯ノ花しうね": {
+        "image": "hacchan.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_ヒカック_卯ノ花しうね": {
+        "image": "hikkaku.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_ヒラ_卯ノ花しうね": {
+        "image": "hira.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_ピカクロス_卯ノ花しうね": {
+        "image": "pikacros.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_フルコン_卯ノ花しうね": {
+        "image": "fullcon.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_プテラたかはし_卯ノ花しうね": {
+        "image": "ptehashi.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_ポン酢野郎_卯ノ花しうね": {
+        "image": "ponzu.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_ミリアル_chest": {
+        "image": "millial.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_メッス_卯ノ花しうね": {
+        "image": "mess.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_ユズ_卯ノ花しうね": {
+        "image": "yuzu.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_中野あるま_卯ノ花しうね": {
+        "image": "nakanoalma.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_京町セイカ_chest": {
+        "image": "kyoumachi_seika.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_優木なお_卯ノ花しうね": {
+        "image": "yuukinao.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_先端恐怖症_卯ノ花しうね": {
+        "image": "sentankyoufusyou.png",
+        "back_image": "sentankyoufusyou_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_南海ふう_卯ノ花しうね": {
+        "image": "minamifuu.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_卯ノ花しうね_卯ノ花しうね": {
+        "image": "shiune.png",
+        "back_image": "shiune_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_壱兄さん_卯ノ花しうね": {
+        "image": "ichinisan.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_天瑠璃ちぇろ_卯ノ花しうね": {
+        "image": "rapisuchero.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_天羽よつは_卯ノ花しうね": {
+        "image": "yotsuha.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_弦巻マキ_chest": {
+        "image": "tsurumaki_maki.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_影。_卯ノ花しうね": {
+        "image": "Kagemaru_adaptive.png",
+        "multi_color": true,
+        "hat_type": "hats"
+      },
+      "hat_御先蔵馬_卯ノ花しうね": {
+        "image": "kurama.png",
+        "back_image": "kurama_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_微積分_卯ノ花しうね": {
+        "image": "hashiken.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_星月べーる_卯ノ花しうね": {
+        "image": "be-ru.png",
+        "back_image": "be-ru_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_月読アイ_chest": {
+        "image": "tsukiyomi_ai.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_東北きりたん_chest": {
+        "image": "touhoku_kiritan.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_東北ずんこ_chest": {
+        "image": "touhoku_zunko.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_東北イタコ_chest": {
+        "image": "touhoku_itako.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_栗山やんみ_卯ノ花しうね": {
+        "image": "yanmi.png",
+        "back_image": "yanmi_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_源ちょす_卯ノ花しうね": {
+        "image": "genchosu.png",
+        "back_image": "genchosu_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_瀬戸あさひ_卯ノ花しうね": {
+        "image": "seto.png",
+        "back_image": "seto_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_独身貴族リンネ_卯ノ花しうね": {
+        "image": "rinne.png",
+        "back_image": "rinne_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_猫月みお_卯ノ花しうね": {
+        "image": "nekodukimio.png",
+        "back_image": "nekodukimio_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_琴葉茜_chest": {
+        "image": "kotonoha_akane.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_琴葉葵_chest": {
+        "image": "kotonoha_aoi.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_番長_卯ノ花しうね": {
+        "image": "bancho.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_真宮ノア_卯ノ花しうね": {
+        "image": "noah.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_神宮寺_卯ノ花しうね": {
+        "image": "jinguuji.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_紅月サクヤ_卯ノ花しうね": {
+        "image": "akatsukisakuya.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_紲星あかり_chest": {
+        "image": "kizuna_akari.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_結月ゆかり_chest": {
+        "image": "yuzuki_yukari.png",
+        "back_image": "yuzuki_yukari_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_蒼古流_卯ノ花しうね": {
+        "image": "sou.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_詩人さん_卯ノ花しうね": {
+        "image": "shijin.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_近アモKINGww_卯ノ花しうね": {
+        "image": "chikaamoking.png",
+        "back_image": "chikaamoking_back.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_音街ウナ_chest": {
+        "image": "otomachi_una.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_高田健志_卯ノ花しうね": {
+        "image": "takadasan.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_鳴花ヒメ_chest": {
+        "image": "meika_hime.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_鳴花ミコト_chest": {
+        "image": "meika_mikoto.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_黒川クロム_卯ノ花しうね": {
+        "image": "kurokawa.png",
+        "multi_color": false,
+        "hat_type": "hats"
+      },
+      "hat_Megaphone_Palmer": {
         "image": "megaphone_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Cat": {
+      "hat_Cat_Ruolbu": {
         "image": "cat.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Shiba": {
+      "hat_Shiba_Buntspecht": {
         "image": "shiba_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Cook": {
+      "hat_Cook_Bavari": {
         "image": "cook_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Long_Brown": {
+      "hat_Long_Brown_ZzzSleepy": {
         "image": "LongBrown.png",
         "back_image": "LongBrown_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_DJ": {
+      "hat_DJ_AlexNabb": {
         "image": "dj.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Bulb": {
+      "hat_Bulb_Ruolbu": {
         "image": "bulb_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Duck": {
+      "hat_Duck_Ruolbu": {
         "image": "duck_bounce.png",
         "back_image": "duck_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Towel": {
+      "hat_Towel_Paradoxon": {
         "image": "towel_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Cat_Ears": {
+      "hat_Cat_Ears_Kazutea": {
         "image": "catEars_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Leaf": {
+      "hat_Leaf_Ruolbu": {
         "image": "leaf.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Brain": {
+      "hat_Brain_Ruolbu": {
         "image": "brain_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Mech": {
+      "hat_Mech_Ruolbu": {
         "image": "mech_adaptive.png",
         "back_image": "mech_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Shark": {
+      "hat_Shark_Toni": {
         "image": "shark.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Old_Man": {
+      "hat_Old_Man_K3ndo": {
         "image": "OldMan.png",
         "back_image": "OldMan_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Traffic_Cone": {
+      "hat_Traffic_Cone_K3ndo": {
         "image": "TrafficCone_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Braini": {
+      "hat_Braini_Bavari": {
         "image": "brainglass.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Frog": {
+      "hat_Frog_K3ndo": {
         "image": "Frog_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Phone": {
+      "hat_Phone_ZzzSleepy": {
         "image": "Phone_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Boxing_Gloves": {
+      "hat_Boxing_Gloves_ZzzSleepy": {
         "image": "Boxer.png",
         "back_image": "Boxer_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Dad_Hat": {
+      "hat_Dad_Hat_DonPads": {
         "image": "dadhat.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Newspaper": {
+      "hat_Newspaper_ZzzSleepy": {
         "image": "Newspaper_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_VoKuHiLa": {
+      "hat_VoKuHiLa_paprika007": {
         "image": "VoKuHiLaOliBa.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Lawyer": {
+      "hat_Lawyer_Klaggo": {
         "image": "lawyer.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Sunhat": {
+      "hat_Sunhat_Trulla": {
         "image": "sunhat_adaptive_bounce.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Angelwings": {
+      "hat_Angelwings_Drakoni": {
         "image": "angelwings.png",
         "back_image": "angelwings_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Dark_Cat_Ears": {
+      "hat_Dark_Cat_Ears_Kazutea": {
         "image": "darkCat.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Dino": {
+      "hat_Dino_flecken66": {
         "image": "Dino5_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Dhalucard": {
+      "hat_Dhalucard_TheFeS": {
         "image": "bandana_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Thunderstorm": {
+      "hat_Thunderstorm_TheFeS": {
         "image": "dragon_bounce.png",
         "back_image": "dragon_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Eisbison": {
+      "hat_Eisbison_TheFeS": {
         "image": "eisbison.png",
         "back_image": "eisbison_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_EndOfFile": {
+      "hat_EndOfFile_TheFeS": {
         "image": "eof_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Sombrero": {
+      "hat_Sombrero__FreakaMania": {
         "image": "Sombrero-FreakaMania.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Strawhat": {
+      "hat_Strawhat_Lelelara": {
         "image": "1_strawhat.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Samurai": {
+      "hat_Samurai_Lelelara": {
         "image": "samurai.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Fisherman": {
+      "hat_Fisherman_K3ndo": {
         "image": "Fisherman_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Roseflowers": {
+      "hat_Roseflowers_Пиф": {
         "image": "roseflower.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Penguin": {
+      "hat_Penguin_K3ndo": {
         "image": "Penguin_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Propeller": {
+      "hat_Propeller_Drakoni": {
         "image": "propeller.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Comfy_Sloth": {
+      "hat_Comfy_Sloth_Drakoni": {
         "image": "comfysloth.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Bucket": {
+      "hat_Bucket_Drakoni": {
         "image": "bucket_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Firemage": {
+      "hat_Firemage_Drakoni": {
         "image": "firemage.png",
         "back_image": "firemage_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Angel_+_Wings": {
+      "hat_Angel_+_Wings_Пиф": {
         "image": "AngelN_bounce.png",
         "back_image": "AngelN_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Hairband": {
+      "hat_Hairband_ycy": {
         "image": "hairband_adaptive.png",
         "back_image": "hairband_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Feeling_Cute": {
+      "hat_Feeling_Cute_Пиф": {
         "image": "love_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Ghostking": {
+      "hat_Ghostking_Noui": {
         "image": "ghostking_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Holla": {
+      "hat_Holla_Drakoni": {
         "image": "holla.png",
         "back_image": "holla_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Monster": {
+      "hat_Monster_K3ndo": {
         "image": "Monster.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Tanuki": {
+      "hat_Tanuki_stitchk": {
         "image": "tanuki_adaptive.png",
         "back_image": "tanuki_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Juliversal": {
+      "hat_Juliversal_Drakoni": {
         "image": "juli.png",
         "back_image": "juli_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Harley_Wig": {
+      "hat_Harley_Wig_FreakaMania": {
         "image": "HarleyQuinn.png",
         "back_image": "HarleyQuinn_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Bushi": {
+      "hat_Bushi_K3ndo": {
         "image": "Bushi.png",
         "back_image": "Bushi_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Dumb": {
+      "hat_Dumb_stitchk": {
         "image": "dumb.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_3D_Glasses": {
+      "hat_3D_Glasses_stitchk": {
         "image": "3dglasses.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Afro": {
+      "hat_Afro_Senf": {
         "image": "afro_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_TheOtherCat": {
+      "hat_TheOtherCat_Simoms": {
         "image": "TheOtherCat.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Mental": {
+      "hat_Mental_Drakoni": {
         "image": "Mental.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Thick_Beard": {
+      "hat_Thick_Beard_Drakoni": {
         "image": "beardthick.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Racoon": {
+      "hat_Racoon_stitchk": {
         "image": "racoon.png",
         "back_image": "racoon_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Turtle": {
+      "hat_Turtle_Drakoni": {
         "image": "Turtle_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Nephias": {
+      "hat_Nephias_Drakoni": {
         "image": "Nephias.png",
         "back_image": "Nephias_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_I_like_pizza": {
+      "hat_I_like_pizza_bavari": {
         "image": "pizzahat_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Bubble_Bath": {
+      "hat_Bubble_Bath_bavari": {
         "image": "bubblebath.png",
         "back_image": "bubblebath_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_French": {
+      "hat_French_Germi": {
         "image": "French_bounce.png",
         "back_image": "French_back_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Butterfly": {
+      "hat_Butterfly_PinkWin": {
         "image": "butterfly_adaptive.png",
         "back_image": "butterfly_adaptive_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Melted_Ice": {
+      "hat_Melted_Ice_Outis": {
         "image": "melted_ice.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Flower_Crown": {
+      "hat_Flower_Crown_Trulla": {
         "image": "flowercrown.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Whale": {
+      "hat_Whale_k3ndo": {
         "image": "Whale.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Cesar": {
+      "hat_Cesar_Germi": {
         "image": "Cesar_bounce.png",
         "back_image": "Cesar_back_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Jackal": {
+      "hat_Jackal_PinkWin": {
         "image": "jackal_adaptive.png",
         "back_image": "jackal_adaptive_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Reggae": {
+      "hat_Reggae_k3ndo": {
         "image": "Reggae.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Eisbison_Hat": {
+      "hat_Eisbison_Hat_stitchk": {
         "image": "eisbisonalt.png",
         "back_image": "eisbisonalt_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Jellyfish": {
+      "hat_Jellyfish_stitchk": {
         "image": "jellyfish_adaptive.png",
         "back_image": "jellyfish_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Better_Vampire": {
+      "hat_Better_Vampire_Drakoni": {
         "image": "2Vampire.png",
         "back_image": "2Vampire_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Shark_2": {
+      "hat_Shark_2_stitchk": {
         "image": "2shark_adaptive.png",
         "back_image": "2shark_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Irrelephant": {
+      "hat_Irrelephant_Simoms": {
         "image": "Irrelephant_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Bavari": {
+      "hat_Bavari_Drakoni": {
         "image": "Bavari.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Vlesk": {
+      "hat_Vlesk_Drakoni": {
         "image": "Vlesk.png",
         "back_image": "Vlesk_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Hoodie_2": {
+      "hat_Hoodie_2_stitchk": {
         "image": "hoodie2_adaptive.png",
         "back_image": "hoodie2_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Unge": {
+      "hat_Unge_Bavari": {
         "image": "unge.png",
         "back_image": "unge_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_King": {
+      "hat_King_k3ndo": {
         "image": "King.png",
         "back_image": "King_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Donut_Lover": {
+      "hat_Donut_Lover_Palmer": {
         "image": "hjs.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Tie_Dye_Hair": {
+      "hat_Tie_Dye_Hair_Trulla": {
         "image": "tie-dye-hair.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Jetpack": {
+      "hat_Jetpack_Palmer": {
         "image": "jetpack_adaptive.png",
         "back_image": "jetpack_back_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Bee": {
+      "hat_Bee_k3ndo": {
         "image": "Bee.png",
         "back_image": "Bee_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Miss_Crewmate": {
+      "hat_Miss_Crewmate_Germi": {
         "image": "senator_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Press": {
+      "hat_Press_Palmer": {
         "image": "press_bounce.png",
         "back_image": "press_back_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_2_Horns": {
+      "hat_2_Horns_Lelelara": {
         "image": "2horns.png",
         "back_image": "2horns_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Shower": {
+      "hat_Shower_Trulla": {
         "image": "shower.png",
         "back_image": "shower_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Baso": {
+      "hat_Baso_Drakoni": {
         "image": "Baso.png",
         "back_image": "Baso_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Hahn": {
+      "hat_Hahn_Drakoni": {
         "image": "Hahn_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Camera": {
+      "hat_Camera_Palmer": {
         "image": "camera_bounce.png",
         "back_image": "camera_back_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Pockets": {
+      "hat_Pockets_Palmer": {
         "image": "pockets.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Cherryblossom": {
+      "hat_Cherryblossom_Lanelore": {
         "image": "cherryblossom.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Varion_Cap": {
+      "hat_Varion_Cap_Drakoni": {
         "image": "VarionCap.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Paarzival": {
+      "hat_Paarzival_K3ndo": {
         "image": "Paarzival.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Pharaoh": {
+      "hat_Pharaoh_K3ndo": {
         "image": "Pharaoh.png",
         "back_image": "Pharaoh_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Otter": {
+      "hat_Otter_Drakoni": {
         "image": "Otter.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Regenbogenglas": {
+      "hat_Regenbogenglas_bavari": {
         "image": "regenbogenglas.png",
         "back_image": "regenbogenglas_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Skull": {
+      "hat_Skull_Lanelore": {
         "image": "skull_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_JenNyan": {
+      "hat_JenNyan_Drakoni": {
         "image": "JenNyan.png",
         "back_image": "JenNyan_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Tinfoil": {
+      "hat_Tinfoil_Drakoni": {
         "image": "Tinfoil.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Tinkercat": {
+      "hat_Tinkercat_Drakoni": {
         "image": "tinkercat.png",
         "back_image": "tinkercat_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Divi": {
+      "hat_Divi_Drakoni": {
         "image": "Divi_adaptive.png",
         "back_image": "Divi_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_FeineKatze": {
+      "hat_FeineKatze_Drakoni": {
         "image": "FeineKatze.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Goatee": {
+      "hat_Goatee_Drakoni": {
         "image": "goatee.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_karuzo": {
+      "hat_karuzo_Drakoni": {
         "image": "karuzo_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_T-Rex": {
+      "hat_T-Rex_Drakoni": {
         "image": "trex_adaptive.png",
         "back_image": "trex_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Lumenti": {
+      "hat_Lumenti_Drakoni": {
         "image": "Lumenti_adaptive.png",
         "back_image": "Lumenti_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Medusa": {
+      "hat_Medusa_Drakoni": {
         "image": "Medusa.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Viking_Beard": {
+      "hat_Viking_Beard_Drakoni": {
         "image": "beardviking.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Tutu": {
+      "hat_Tutu_Drakoni": {
         "image": "tutu.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Ghost": {
+      "hat_Ghost_K3ndo": {
         "image": "Ghost_adaptive_bounce.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Troll": {
+      "hat_Troll_K3ndo": {
         "image": "Troll_adaptive.png",
         "back_image": "Troll_adaptive_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Cowboy": {
+      "hat_Cowboy_K3ndo": {
         "image": "Cowboy.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Firefighter": {
+      "hat_Firefighter_K3ndo": {
         "image": "Firefighter_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Robot": {
+      "hat_Robot_K3ndo": {
         "image": "Robot_adaptive.png",
         "back_image": "Robot_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Panda": {
+      "hat_Panda_K3ndo": {
         "image": "Panda.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Dino2": {
+      "hat_Dino2_K3ndo": {
         "image": "Dino2_adaptive.png",
         "back_image": "Dino2_adaptive_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Professor": {
+      "hat_Professor_K3ndo": {
         "image": "Professor_adaptive.png",
         "back_image": "Professor_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Barbarian": {
+      "hat_Barbarian_K3ndo": {
         "image": "Barbarian_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Broccoltree": {
+      "hat_Broccoltree_K3ndo": {
         "image": "Broccoltree_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Pony": {
+      "hat_Pony_Trulla": {
         "image": "pony_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Candle": {
+      "hat_Candle_Trulla": {
         "back_image": "candle_behind.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Towel_42": {
+      "hat_Towel_42_Trulla": {
         "image": "towel2_bounce_adaptive.png",
         "back_image": "empty.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_City_Watch": {
+      "hat_City_Watch_Trulla": {
         "image": "city-watch.png",
         "back_image": "city-watch_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Tentacle": {
+      "hat_Tentacle_Trulla": {
         "image": "tentacle_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Umbrella": {
+      "hat_Umbrella_Trulla": {
         "image": "umbrella.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Hoodie": {
+      "hat_Hoodie_Trulla": {
         "image": "hoodie_adaptive.png",
         "back_image": "hoodie_adaptive_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Felt_Hat": {
+      "hat_Felt_Hat_Trulla": {
         "image": "felt-hat.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Curlers": {
+      "hat_Curlers_Trulla": {
         "image": "curlers_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Pride": {
+      "hat_Pride_Trulla": {
         "back_image": "pride_behind.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Shower_Cap": {
+      "hat_Shower_Cap_Trulla": {
         "image": "showercap_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Snail": {
+      "hat_Snail_Streamblox": {
         "image": "snail_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_EoF_Helmet": {
+      "hat_EoF_Helmet_Drakoni": {
         "image": "EndofFiles_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Pirate_2": {
+      "hat_Pirate_2_K3ndo": {
         "image": "Pirate2.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Fish": {
+      "hat_Fish_K3ndo": {
         "image": "fish_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Anihair": {
+      "hat_Anihair_Maqquix": {
         "image": "anihair.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_McFly": {
+      "hat_McFly_Drakoni": {
         "image": "McFly_adaptive.png",
         "back_image": "McFly_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Idea": {
+      "hat_Idea_Trulla": {
         "image": "idea.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Aztec": {
+      "hat_Aztec_Keilwig": {
         "image": "aztec.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Pinkfluffy": {
+      "hat_Pinkfluffy_Lanelore": {
         "image": "Pinkfluffy_adaptive.png",
         "back_image": "Pinkfluffy_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Sun&Moon": {
+      "hat_Sun&Moon_K3ndo": {
         "image": "SunMoon_adaptive_bounce.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Pineapple": {
+      "hat_Pineapple_Yoshilias": {
         "image": "pineapple.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Cobra": {
+      "hat_Cobra_Lanelore": {
         "image": "cobra_adaptive.png",
         "back_image": "cobra_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Hula": {
+      "hat_Hula_Lanelore": {
         "image": "hula_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Demon": {
+      "hat_Demon_Lanelore": {
         "image": "demon_adaptive.png",
         "back_image": "demon_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Spider": {
+      "hat_Spider_Lanelore": {
         "image": "spider_adaptive.png",
         "back_image": "spider_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Dog": {
+      "hat_Dog_Lanelore": {
         "image": "dog_adaptive.png",
         "back_image": "dog_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Axolotl": {
+      "hat_Axolotl_Lanelore": {
         "image": "Axolotl_adaptive.png",
         "back_image": "Axolotl_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Flutter": {
+      "hat_Flutter_Lanelore": {
         "image": "flutter_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Donut": {
+      "hat_Donut_Bavari": {
         "image": "donut_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Octopus": {
+      "hat_Octopus_Toni": {
         "image": "octopus_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Drakoni": {
+      "hat_Drakoni_Drakoni": {
         "image": "Drakoni_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Nest": {
+      "hat_Nest_Drakoni": {
         "image": "Nest.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_O2": {
+      "hat_O2_K3ndo": {
         "image": "O2_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Owl": {
+      "hat_Owl_Drakoni": {
         "image": "owl_adaptive.png",
         "back_image": "owl_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Monsterhair": {
+      "hat_Monsterhair_Keilwig": {
         "image": "monsterhair_adaptive.png",
         "back_image": "monsterhair_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_SmashLunatic": {
+      "hat_SmashLunatic_Drakoni": {
         "image": "SmashLunatic.png",
         "back_image": "SmashLunatic_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Cow": {
+      "hat_Cow_Laocon": {
         "image": "Cow_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Helmet": {
+      "hat_Helmet_K3ndo": {
         "image": "Helmet_adaptive.png",
         "back_image": "Helmet_adaptive_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_GlitchedNPC": {
+      "hat_GlitchedNPC_Drakoni": {
         "image": "GlitchedNPC_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Jeanshead": {
+      "hat_Jeanshead_Laocon": {
         "image": "Jeanshead.png",
         "back_image": "Jeanshead_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Bull": {
+      "hat_Bull_Lanelore": {
         "image": "bull_adaptive.png",
         "back_image": "bull_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Robin": {
+      "hat_Robin_Drakoni": {
         "image": "Robin.png",
         "back_image": "Robin_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Papo": {
+      "hat_Papo_Darkoni": {
         "image": "Papo_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_chameleon": {
+      "hat_chameleon_Drakoni": {
         "image": "chameleon_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Shorty": {
+      "hat_Shorty_Bavari": {
         "image": "shorty.png",
         "back_image": "shorty_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Graenz": {
+      "hat_Graenz_Drakoni": {
         "image": "Graenz.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_cake": {
+      "hat_cake_Drakoni": {
         "image": "cake.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_beaver": {
+      "hat_beaver_Yoshilias": {
         "image": "beaver_adaptive.png",
         "back_image": "beaver_back_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Rockstar": {
+      "hat_Rockstar_Lanelore": {
         "image": "Rockstar_adaptive.png",
         "back_image": "Rockstar_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Kangaroo": {
+      "hat_Kangaroo_Avlona": {
         "image": "Kangaroo_adaptive.png",
         "back_image": "Kangaroo_back_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Lion": {
+      "hat_Lion_K3ndo": {
         "image": "Lion_adaptive.png",
         "back_image": "Lion_adaptive_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Egg": {
+      "hat_Egg_Yoshilias": {
         "image": "Egg.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Popstar": {
+      "hat_Popstar_Lanelore": {
         "image": "Popstar_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Cream": {
+      "hat_Cream_Lanelore": {
         "image": "Cream_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Tiggerlove": {
+      "hat_Tiggerlove_Listoric": {
         "image": "tiggerlove_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_SuperLisDog": {
+      "hat_SuperLisDog_Listoric": {
         "image": "SuperLisDog.png",
         "back_image": "SuperLisDog_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Baroque": {
+      "hat_Baroque_Yoshilias": {
         "image": "Baroque.png",
         "back_image": "Baroque_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Elf": {
+      "hat_Elf_Avlona": {
         "image": "elf_adaptive.png",
         "back_image": "elf_back_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Berry": {
+      "hat_Berry_Listoric": {
         "image": "berry_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Parrot": {
+      "hat_Parrot_K3ndo": {
         "image": "Parrot_adaptive.png",
         "back_image": "Parrot_adaptive_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Sushi": {
+      "hat_Sushi_Lanelore": {
         "image": "Sushi.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Banana": {
+      "hat_Banana_Lanelore": {
         "image": "Banana_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Ballooonnn": {
+      "hat_Ballooonnn_K3ndo": {
         "image": "K3ndo_Balloon_adaptive.png",
         "back_image": "K3ndo_Balloon_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_ghost": {
+      "hat_ghost_Listoric": {
         "image": "ghost_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Huschee": {
+      "hat_Huschee_Avlona": {
         "image": "Catshee.png",
         "back_image": "Catshee_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_DJmongus": {
+      "hat_DJmongus_Listoric": {
         "image": "djmogus.png",
         "back_image": "djmogus_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_appleshot": {
+      "hat_appleshot_Drakoni": {
         "image": "appleshot_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Platypus": {
+      "hat_Platypus_Drakoni": {
         "image": "Platypus.png",
         "back_image": "Platypus_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_TimHorus": {
+      "hat_TimHorus_Avlona": {
         "image": "TimHorus.png",
         "back_image": "TimHorus_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Pig": {
+      "hat_Pig_Avlona": {
         "image": "Pig_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Timit": {
+      "hat_Timit_Yoshilias": {
         "image": "Timit.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Adorable": {
+      "hat_Adorable_Yoshilias": {
         "image": "Adorable.png",
         "back_image": "Adorable_back_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_lollipop": {
+      "hat_lollipop_Listoric": {
         "image": "lollipop_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Detective": {
+      "hat_Detective_K3ndo": {
         "image": "Detective_adaptive.png",
         "back_image": "Detective_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Eagle": {
+      "hat_Eagle_K3ndo": {
         "image": "Eagle_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Mummy": {
+      "hat_Mummy_K3ndo": {
         "image": "Mummy.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_VampireHunter": {
+      "hat_VampireHunter_Drakoni": {
         "image": "VampireHunter.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Cardboard": {
+      "hat_Cardboard_K3ndo": {
         "image": "Cardboard.png",
         "back_image": "Cardboard_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Racing": {
+      "hat_Racing_K3ndo": {
         "image": "Racing_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Armor": {
+      "hat_Armor_K3ndo": {
         "image": "Armor.png",
         "back_image": "Armor_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Gravestone": {
+      "hat_Gravestone_Drakoni": {
         "image": "Gravestone.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Trident": {
+      "hat_Trident_memesaba": {
         "image": "Trident_adaptive.png",
         "back_image": "Trident_back_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Thief": {
+      "hat_Thief_K3ndo": {
         "image": "Thief_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Druid": {
+      "hat_Druid_K3ndp": {
         "image": "Druid.png",
         "back_image": "Druid_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Rxzjeff": {
+      "hat_Rxzjeff_K3ndo": {
         "image": "Rxzjeff.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Creepytree": {
+      "hat_Creepytree_Drakoni": {
         "image": "Creepytree.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Banner": {
+      "hat_Banner_K3ndo": {
         "image": "Banner.png",
         "back_image": "Banner_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Cleaner": {
+      "hat_Cleaner_K3ndo": {
         "image": "Cleaner.png",
         "back_image": "Cleaner_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Flower": {
+      "hat_Flower_K3ndo": {
         "image": "Flower_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Pennington": {
+      "hat_Pennington_Mat": {
         "image": "Pennington.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Lumberjack": {
+      "hat_Lumberjack_K3ndo": {
         "image": "Lumberjack.png",
         "back_image": "Lumberjack_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Dolphin": {
+      "hat_Dolphin_memesaba": {
         "image": "Dolphin_adaptive.png",
         "back_image": "Dolphin_back_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Puppeteer": {
+      "hat_Puppeteer_K3ndo": {
         "image": "Puppeteer_adaptive.png",
         "back_image": "Puppeteer_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Swapper": {
+      "hat_Swapper_K3ndo": {
         "image": "Swapper.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Monster_Mouth": {
+      "hat_Monster_Mouth_Dark_Nebula": {
         "image": "Monster Mouth.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Wasteland": {
+      "hat_Wasteland_K3ndo": {
         "image": "Wasteland_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Frostmage": {
+      "hat_Frostmage_K3ndo": {
         "image": "Frostmage_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Shinobi": {
+      "hat_Shinobi_UMOU_FUTON": {
         "image": "shinobi_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Jester": {
+      "hat_Jester_K3ndo": {
         "image": "Jester.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Baitdonkey": {
+      "hat_Baitdonkey_K3ndo": {
         "image": "Baitdonkey.png",
         "back_image": "Baitdonkey_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Piggyback": {
+      "hat_Piggyback_Dark_Nebula": {
         "image": "Piggyback_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Goodevil": {
+      "hat_Goodevil_K3ndo": {
         "image": "Goodevil.png",
         "back_image": "Goodevil_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_NewSheriffInTown": {
+      "hat_NewSheriffInTown_K3ndo": {
         "image": "NewSheriffInTown.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_StuffedBunny": {
+      "hat_StuffedBunny_Dark_Nebula": {
         "image": "StuffedBunny_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_InPasta": {
+      "hat_InPasta_Dark_Nebula": {
         "image": "InPasta.png",
         "back_image": "InPasta_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Thinking": {
+      "hat_Thinking_K3ndo": {
         "image": "Thinking_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_IceHockey": {
+      "hat_IceHockey_K3ndo": {
         "image": "IceHockey_adaptive.png",
         "back_image": "IceHockey_adaptive_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_sad": {
+      "hat_sad_Taira": {
         "image": "sad_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_baby": {
+      "hat_baby_Taira": {
         "image": "baby_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_SantaClaus": {
+      "hat_SantaClaus_K3ndo": {
         "image": "SantaClaus_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_TechieJunk": {
+      "hat_TechieJunk_Ska": {
         "image": "TechieJunk_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_bloodymary": {
+      "hat_bloodymary_Listoric": {
         "image": "bloodymary.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Sheep": {
+      "hat_Sheep_UMOU_FUTON": {
         "image": "Sheep_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_BehaartMitBart": {
+      "hat_BehaartMitBart_Pixeldelfin": {
         "image": "BehaartMitBart.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Dwarf": {
+      "hat_Dwarf_Avlona": {
         "image": "Dwarf_adaptive.png",
         "back_image": "Dwarf_back_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_bluecat": {
+      "hat_bluecat_Listoric": {
         "image": "bluecat_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_drpflanze": {
+      "hat_drpflanze_Dr._Pflanze": {
         "image": "drpflanze.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Terste": {
+      "hat_Terste_Avlona": {
         "image": "Terste.png",
         "back_image": "Terste_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_bob": {
+      "hat_bob_Listoric": {
         "image": "bob.png",
         "back_image": "bob_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_present": {
+      "hat_present_Listoric": {
         "image": "present_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_monkey": {
+      "hat_monkey_Taira": {
         "image": "monkey_adaptive.png",
         "back_image": "monkey_back_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Mushroom": {
+      "hat_Mushroom_K3ndo": {
         "image": "Mushroom_adaptive.png",
         "back_image": "Mushroom_adaptive_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_bookhander": {
+      "hat_bookhander_Yakumo": {
         "image": "bookhander_adaptive_bounce.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_BlindArkia": {
+      "hat_BlindArkia_Yusako": {
         "image": "BlindArkia_adaptive.png",
         "back_image": "BlindArkia_adaptive_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_AngryBush": {
+      "hat_AngryBush_Yusako": {
         "image": "AngryBush.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_TheLoaded": {
+      "hat_TheLoaded_Yakumo": {
         "image": "TheLoaded_adaptive.png",
         "back_image": "TheLoaded_adaptive_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Paperbaghat": {
+      "hat_Paperbaghat_K3ndo": {
         "image": "Paperbaghat_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Enchanter": {
+      "hat_Enchanter_K3ndo": {
         "image": "Enchanter_adaptive.png",
         "back_image": "Enchanter_adaptive_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Cactus": {
+      "hat_Cactus_Avlona": {
         "image": "Cactus_adaptive.png",
         "back_image": "Cactus_back_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Hacker": {
+      "hat_Hacker_K3ndo": {
         "image": "Hacker_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_ElementEearth": {
+      "hat_ElementEearth_K3ndo": {
         "image": "ElementEearth.png",
         "back_image": "ElementEearth_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Hsky": {
+      "hat_Hsky_Avlona": {
         "image": "Hsky_adaptive.png",
         "back_image": "Hsky_back_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Squirrel": {
+      "hat_Squirrel_K3ndo": {
         "image": "Squirrel_adaptive.png",
         "back_image": "Squirrel_back_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_IrishGoblin": {
+      "hat_IrishGoblin_K3ndo": {
         "image": "IrishGoblin.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Octopus2": {
+      "hat_Octopus2_K3ndo": {
         "image": "Octopus2_adaptive.png",
         "back_image": "Octopus2_adaptive_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Traveller": {
+      "hat_Traveller_K3ndo": {
         "image": "Traveller_adaptive.png",
         "back_image": "Traveller_adaptive_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_DinoRider": {
+      "hat_DinoRider_Yakumo": {
         "image": "DinoRider_adaptive_bounce.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Umbrella2": {
+      "hat_Umbrella2_Yakumo": {
         "image": "Umbrella2_adaptive.png",
         "back_image": "Umbrella2_adaptive_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_ElementFire": {
+      "hat_ElementFire_K3ndo": {
         "image": "ElementFire.png",
         "back_image": "ElementFire_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Villain": {
+      "hat_Villain_K3ndo": {
         "image": "Villain_adaptive.png",
         "back_image": "Villain_back_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Witch": {
+      "hat_Witch_K3ndo": {
         "image": "Witch.png",
         "back_image": "Witch_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_ElementAir": {
+      "hat_ElementAir_K3ndo": {
         "image": "ElementAir.png",
         "back_image": "ElementAir_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Safari": {
+      "hat_Safari_K3ndo": {
         "image": "Safari_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_ElementWater": {
+      "hat_ElementWater_K3ndo": {
         "image": "ElementWater.png",
         "back_image": "ElementWater_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Poet": {
+      "hat_Poet_K3ndo": {
         "image": "Poet_adaptive.png",
         "back_image": "Poet_back_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Poncho": {
+      "hat_Poncho_K3ndo": {
         "image": "Poncho_adaptive.png",
         "back_image": "Poncho_back_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Footballbrown": {
+      "hat_Footballbrown_K3ndo": {
         "image": "Footballbrown_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Scarf": {
+      "hat_Scarf_K3ndo": {
         "image": "Scarf_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Circusdirector": {
+      "hat_Circusdirector_K3ndo": {
         "image": "Circusdirector.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_BottlePost": {
+      "hat_BottlePost_K3ndo": {
         "image": "BottlePost_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Coffee": {
+      "hat_Coffee_K3ndo": {
         "image": "Coffee_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_daruma": {
+      "hat_daruma_Taira": {
         "image": "daruma_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Fox": {
+      "hat_Fox_K3ndo": {
         "image": "Fox_adaptive.png",
         "back_image": "Fox_adaptive_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Genie": {
+      "hat_Genie_K3ndo": {
         "image": "Genie_adaptive.png",
         "back_image": "Genie_back_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Gentleman": {
+      "hat_Gentleman_K3ndo": {
         "image": "Gentleman_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Handcuffs": {
+      "hat_Handcuffs_K3ndo": {
         "image": "Handcuffs_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_ImAUnicorn": {
+      "hat_ImAUnicorn_K3ndo": {
         "image": "ImAUnicorn.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Rollator": {
+      "hat_Rollator_K3ndo": {
         "image": "Rollator_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Shaman": {
+      "hat_Shaman_K3ndo": {
         "image": "Shaman_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Snake": {
+      "hat_Snake_K3ndo": {
         "image": "Snake_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Superhero": {
+      "hat_Superhero_K3ndo": {
         "image": "Superhero.png",
         "back_image": "Superhero_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_TakeMyMoney": {
+      "hat_TakeMyMoney_K3ndo": {
         "image": "TakeMyMoney_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Timit_Fluffy": {
+      "hat_Timit_Fluffy_Yoshilias": {
         "image": "TimitFluffy.png",
         "back_image": "TimitFluffy_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_EngineerToR": {
+      "hat_EngineerToR_K3ndo": {
         "image": "EngineerToR_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Goldgoogly": {
+      "hat_Goldgoogly_Yoshilias": {
         "image": "Goldgoogly_flip.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Knight": {
+      "hat_Knight_K3ndo": {
         "image": "Knight_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Neanderthal": {
+      "hat_Neanderthal_K3ndo": {
         "image": "Neanderthal.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_PhillipsScrew": {
+      "hat_PhillipsScrew_Taira": {
         "image": "PhillipsScrew_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_redpanda": {
+      "hat_redpanda_Jas": {
         "image": "redpanda.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Rubberduck": {
+      "hat_Rubberduck_Dr.Pflanze": {
         "image": "Rubberduck.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Tablet": {
+      "hat_Tablet_Yoshilias": {
         "image": "Tablet_adaptive_flip.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Wires": {
+      "hat_Wires_Пиф": {
         "image": "Wires.png",
         "back_image": "Wires_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Wolf": {
+      "hat_Wolf_Пиф": {
         "image": "Wolf_adaptive.png",
         "back_image": "Wolf_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_cat2": {
+      "hat_cat2_Catudon": {
         "image": "cat2_adaptive.png",
         "back_image": "cat2_back_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_K3ndo": {
+      "hat_K3ndo_K3ndo": {
         "image": "K3ndo_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Sykkuno": {
+      "hat_Sykkuno_Yoshilias": {
         "image": "Sykkuno.png",
         "back_image": "Sykkuno_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_GeorgeWashington": {
+      "hat_GeorgeWashington_K3ndo": {
         "image": "GeorgeWashington.png",
         "back_image": "GeorgeWashington_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Bomb": {
+      "hat_Bomb_K3ndo": {
         "image": "Bomb_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Future": {
+      "hat_Future_K3ndo": {
         "image": "Future_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Electric": {
+      "hat_Electric_K3ndo": {
         "image": "Electric_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Beethoven": {
+      "hat_Beethoven_K3ndo": {
         "image": "Beethoven_adaptive.png",
         "back_image": "Beethoven_adaptive_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_coala": {
+      "hat_coala_Catudon": {
         "image": "coala_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_DisguisedToast": {
+      "hat_DisguisedToast_Yoshilias": {
         "image": "DisguisedToast.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Rogue": {
+      "hat_Rogue_K3ndo": {
         "image": "Rogue_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Newton": {
+      "hat_Newton_K3ndo": {
         "image": "Newton_adaptive.png",
         "back_image": "Newton_adaptive_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Newspaper2": {
+      "hat_Newspaper2_K3ndo": {
         "image": "Newspaper2_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Bear": {
+      "hat_Bear_Catudon": {
         "image": "bear_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Plant": {
+      "hat_Plant_K3ndo": {
         "image": "Plant_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_SpecialOps": {
+      "hat_SpecialOps_K3ndo": {
         "image": "SpecialOps_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_badtime": {
+      "hat_badtime_likepizza2006": {
         "image": "badtime_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Action": {
+      "hat_Action_K3ndo": {
         "image": "Action_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Fly": {
+      "hat_Fly_K3ndo": {
         "image": "Fly_adaptive.png",
         "back_image": "Fly_adaptive_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_GrimReaper": {
+      "hat_GrimReaper_K3ndo": {
         "image": "GrimReaper_adaptive.png",
         "back_image": "GrimReaper_adaptive_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_5upScarf": {
+      "hat_5upScarf_Stell": {
         "image": "5upScarf_adaptive_bounce.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_SmeggyTV": {
+      "hat_SmeggyTV_K3ndo": {
         "image": "smeggytv_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Mirana": {
+      "hat_Mirana_K3ndo": {
         "image": "Mirana_bounce.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Magictrick": {
+      "hat_Magictrick_K3ndo": {
         "image": "Magictrick_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Chef": {
+      "hat_Chef_K3ndo": {
         "image": "Chef_adaptive.png",
         "back_image": "Chef_adaptive_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Skullanas": {
+      "hat_Skullanas_K3ndo": {
         "image": "Skullanas.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_TimeMaster": {
+      "hat_TimeMaster_K3ndo": {
         "image": "TimeMaster.png",
         "back_image": "TimeMaster_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_zuali": {
+      "hat_zuali_Avlona": {
         "image": "zuali_adaptive.png",
         "back_image": "zuali_adaptive_back.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_Homeless": {
+      "hat_Homeless_K3ndo": {
         "image": "Homeless.png",
         "back_image": "Homeless_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Paladin": {
+      "hat_Paladin_K3ndo": {
         "image": "Paladin.png",
         "back_image": "Paladin_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_Yokeshi": {
+      "hat_Yokeshi_Dimenzio": {
         "image": "Yokeshi.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_valkyrae": {
+      "hat_valkyrae_Yoshilias": {
         "image": "valkyrae.png",
         "back_image": "valkyrae_back.png",
         "multi_color": false,
         "hat_type": "hats"
       },
-      "hat_GentlemanWhite": {
+      "hat_GentlemanWhite_K3ndo": {
         "image": "GentlemanWhite_adaptive.png",
         "multi_color": true,
         "hat_type": "hats"
       },
-      "hat_UFO": {
+      "hat_UFO_K3ndo": {
         "image": "UFO_adaptive.png",
         "back_image": "UFO_adaptive_back.png",
         "multi_color": true,
