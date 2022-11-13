@@ -21,12 +21,12 @@ for i in range(len(customGMDict["hats"])):
     oldName = customGMDict["hats"][i]["name"]
     author = customGMDict["hats"][i]["author"]
     newName = f"{oldName}_{author}"
-    customGMHDict["hats"][i]["name"] = newName
+    customGMDict["hats"][i]["name"] = newName
 for i in range(len(customDict["hats"])):
     oldName = customDict["hats"][i]["name"]
     author = customDict["hats"][i]["author"]
     newName = f"{oldName}_{author}"
-    customGMHDict["hats"][i]["name"] = newName
+    customDict["hats"][i]["name"] = newName
 
 customGMHDict["hats"].extend(customGMDict["hats"])
 customGMHDict["hats"].extend(customDict["hats"])
@@ -34,11 +34,11 @@ customGMHDict["hats"].extend(customDict["hats"])
 hatSet = set()
 for hat in customGMHDict["hats"]:
     if hat["name"] in hatSet:
-        customDict["hats"].remove(hat)
+        customGMHDict["hats"].remove(hat)
     else:
         hatSet.add(hat["name"])
 
 f = open("TheOtherHats/CustomHats.json", "w")
-f.write(json.dumps(customDict))
+f.write(json.dumps(customGMHDict))
 f.close()
 
